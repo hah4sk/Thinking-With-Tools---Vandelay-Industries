@@ -1,5 +1,5 @@
 # Thinking-With-Tools---Vandelay-Industries
-Repo for code related to Technical Interview with Thinking With Tools LLC
+This Repo functions as a platform to demonstrate to recruiters at Thinking With Tools LLC my ability to tackle a coding problem provided to me as part of the interview process.
 
 ## Purpose
 This code is meant to serve as a tool for the fictitious company, Vandelay Industries, as a means to make better financial decisions regarding stakeholder's choices in car purchases/sellings.  By processing through a rudimentary API, Vandelay wants help making better business decisions, and seeks to do so with a streamlined form of datasearching.  
